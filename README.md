@@ -1,1 +1,1 @@
-# Panto Furniture Store
+https://evgeniyredko.github.io/panto-furniture-store/
